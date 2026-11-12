@@ -48,3 +48,8 @@ So that recipes stay consistent as the collection grows:
 - State the tool versions used. Output formats change between releases.
 - Where the official documentation is silent or ambiguous, say so, and give the reader a way to verify the answer themselves.
 - Put anything longer than a few lines of code in `scripts/` and link to it.
+
+## License
+
+Code in `scripts/` is released under the [MIT License](LICENSE).
+The notes in `notes/` are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse them freely with attribution.
